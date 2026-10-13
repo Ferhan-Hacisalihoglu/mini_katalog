@@ -15,9 +15,9 @@ Tüm geliştirme, test ve derleme süreçleri **Docker** konteyneri içinde izol
 
 ## 📱 Ekran Görüntüleri
 
-| Ana Sayfa | Ürün Detayı | Sepete Ekleme | Sepetim Ekranı |
-| :---: | :---: | :---: | :---: |
-| ![Ana Sayfa](screenshots/home_screen.png) | ![Ürün Detayı](screenshots/product_detail.png) | ![Sepet Güncellemesi](screenshots/cart_update.png) | ![Sepetim Ekranı](screenshots/cart_screen.png) |
+| Ana Sayfa | Ürün Detayı | Sepete Ekleme | 
+| :---: | :---: | :---: | 
+| <img width="1080" height="2400" alt="Screenshot_1791883981" src="https://github.com/user-attachments/assets/42f9d244-78b4-4e21-9e38-8272fd4e2cf4" /> | <img width="1080" height="2400" alt="Screenshot_1791884002" src="https://github.com/user-attachments/assets/6d25c313-0f09-4385-a887-6456f1ba66d3" /> | <img width="1080" height="2400" alt="Screenshot_1791889577" src="https://github.com/user-attachments/assets/05a7118d-7cfc-454b-abae-1e3959ad7884" />
 
 ---
 
